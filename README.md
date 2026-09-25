@@ -1,4 +1,4 @@
-# 🌐 HTML Portfolio Website
+# HTML Portfolio Website
 
 A simple personal portfolio website created using **HTML**. This website contains personal information, photos, a contact form, a Google Maps location link, and an Instagram link.
 
